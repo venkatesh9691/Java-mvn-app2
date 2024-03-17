@@ -59,12 +59,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.53.194.54:8081/repository/rajus/</url>
+		    <url>http://16.170.141.202:8081/repository/venkat/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.53.194.54:8081/repository/raju/</url>
+		    <url>http://16.170.141.202:8081/repository/venkatesh/</url>
 		</repository>
   	</distributionManagement>
 </project>
